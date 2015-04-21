@@ -1,0 +1,13 @@
+@purple = #602276;
+@pink   = #E31C58;
+@yellow = #3FBC936;
+@grey   = #D3C8D6;
+@black  = #3A313D;
+
+#splash {
+    margin-top:7%;
+}
+
+#logo {
+    margin-bottom: 25px;
+}
